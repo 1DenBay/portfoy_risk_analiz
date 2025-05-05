@@ -1,11 +1,12 @@
-import pandas
-import numpy
-import requests
-import random 
-import scipy.stats
-from flask import Flask, jsonify
-import streamlit
-import plotly.express
-import matplotlib.pyplot
-from datetime import datetime, timedelta
-import sqlite3
+pandas
+numpy
+requests
+random 
+scipy.stats
+Flask, jsonify
+streamlit
+plotly.express
+matplotlib.pyplot
+datetime
+timedelta
+sqlite3
