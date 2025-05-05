@@ -1,11 +1,11 @@
-import pandas as pd
-import numpy as np
+import pandas
+import numpy
 import requests
 import random 
 import scipy.stats
 from flask import Flask, jsonify
 import streamlit
 import plotly.express
-import matplotlib.pyplot as plt
+import matplotlib.pyplot
 from datetime import datetime, timedelta
 import sqlite3
