@@ -1,13 +1,13 @@
-pandas
-numpy
-requests
-random 
-scipy.stats
-Flask
-jsonify
-streamlit
-plotly.express
-matplotlib.pyplot
-datetime
-timedelta
-sqlite3
+pandas 3.11
+numpy 3.11
+requests 3.11
+random 3.11
+scipy.stats 3.11
+Flask 3.11
+jsonify 3.11
+streamlit 3.11
+plotly.express 3.11
+matplotlib.pyplot 3.11
+datetime 3.11
+timedelta 3.11
+sqlite3 3.11
