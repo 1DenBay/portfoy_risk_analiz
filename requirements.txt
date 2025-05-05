@@ -3,7 +3,8 @@ numpy
 requests
 random 
 scipy.stats
-Flask, jsonify
+Flask
+jsonify
 streamlit
 plotly.express
 matplotlib.pyplot
